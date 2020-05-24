@@ -1,2 +1,2 @@
 # Accident-Severity-Prediction
-This work is done as a part of Btech final semester project.
+This work is mainly concerned to predict accident severity of telangana roads. The dataset consists of 10043 records and 17 features. The model can predict collision_severity feature which could be any one of class from fatal, serious, slight. The dataset is unbalanced consisting of slight class as majorty of it. With the assistance of the XG Boost model, we arrived at 90% accuracy. 
